@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://dodigitals.org" target="_blank"><strong>Visit Our Website »</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://dodigitals.org/portfolio" target="_blank"><strong>View Our Work »</strong></a>
+  <a href="https://dodigitals.org/project" target="_blank"><strong>View Our Work »</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:dodigitalsgroup@gmail.com"><strong>Contact Us »</strong></a>
 </p>
