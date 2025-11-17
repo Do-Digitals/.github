@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://dodigitals.org/assets/images/logo.webp](https://dodigitals.org/assets/images/logo.webp)" alt="Do Digitals Logo" width="200"/>
+  <img src="https://dodigitals.org/assets/images/logo.webp" alt="Do Digitals Logo" width="200"/>
 </p>
 
 <h1 align="center">Welcome to Do Digitals</h1>
